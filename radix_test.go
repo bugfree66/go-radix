@@ -1,4 +1,4 @@
-package github.com/kitrap/go-radix
+package goradix
 
 import (
     "testing"
